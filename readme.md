@@ -1,10 +1,9 @@
-## Music Player
 
-Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API
+https://github.com/user-attachments/assets/3803a7d2-72a1-4bb7-b4ee-986ab9aa276c
 
-## Project Specifications
+https://github.com/user-attachments/assets/66f26131-af0d-4663-b871-36cbfdbd64a5
 
-- Create UI for music player including spinning image and song detail popup
-- Add play and pause functionality
-- Switch songs
-- Progress bar
+
+
+
+
